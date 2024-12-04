@@ -57,7 +57,7 @@ With the following software and hardware list you can run all code files present
 
 * ChatGPT for Cybersecurity Cookbook [[Packt]](https://www.packtpub.com/en-us/product/chatgpt-for-cybersecurity-cookbook-9781805124047) [[Amazon]](https://www.amazon.com/dp/1805124048)
   
-## Get to Know the Author
+## Get to Know the Authors
 **Leonid Kuligin** is an active contributor to LangChain and the author of the many Google Cloud integrations on LangChain. He has been building complex tech products for almost 20 years, developing intense data and Machine Learning applications. Leonid has a degree in Applied Mathematics and Physics, and a degree in Finance. Since 2023, he has been working with key Google Cloud customers on various generative AI initiatives.
 
 **Dr. Maximilian Tschochohei** leads AI Engineering at Google Cloud Consulting EMEA and is responsible for implementing AI applications for Google Cloud customers. He brings insights into LangChain Before joining Google, he spent many years of experience in strategy and technology consulting with the Boston Consulting Group.

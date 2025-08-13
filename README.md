@@ -1,4 +1,4 @@
-# Generative AI on Google Cloud with LangChain
+# LangChain을 활용한 Google Cloud의 생성형 AI
 
 <a href="https://www.packtpub.com/en-us/product/generative-ai-on-google-cloud-with-langchain-9781835889336"><img src="https://m.media-amazon.com/images/I/81C2ZcI-sdL._SL1500_.jpg" alt="Generative AI on Google Cloud with LangChain" height="256px" align="right"></a>
 
